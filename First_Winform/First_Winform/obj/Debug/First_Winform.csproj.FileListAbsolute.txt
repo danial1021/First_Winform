@@ -1,0 +1,10 @@
+C:\Users\GSM08\Desktop\First_Winform\First_Winform\First_Winform\bin\Debug\First_Winform.exe.config
+C:\Users\GSM08\Desktop\First_Winform\First_Winform\First_Winform\bin\Debug\First_Winform.exe
+C:\Users\GSM08\Desktop\First_Winform\First_Winform\First_Winform\bin\Debug\First_Winform.pdb
+C:\Users\GSM08\Desktop\First_Winform\First_Winform\First_Winform\obj\Debug\First_Winform.csprojAssemblyReference.cache
+C:\Users\GSM08\Desktop\First_Winform\First_Winform\First_Winform\obj\Debug\First_Winform.Form1.resources
+C:\Users\GSM08\Desktop\First_Winform\First_Winform\First_Winform\obj\Debug\First_Winform.Properties.Resources.resources
+C:\Users\GSM08\Desktop\First_Winform\First_Winform\First_Winform\obj\Debug\First_Winform.csproj.GenerateResource.cache
+C:\Users\GSM08\Desktop\First_Winform\First_Winform\First_Winform\obj\Debug\First_Winform.csproj.CoreCompileInputs.cache
+C:\Users\GSM08\Desktop\First_Winform\First_Winform\First_Winform\obj\Debug\First_Winform.exe
+C:\Users\GSM08\Desktop\First_Winform\First_Winform\First_Winform\obj\Debug\First_Winform.pdb

@@ -31,5 +31,10 @@ namespace First_Winform
         {
 
         }
+
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }

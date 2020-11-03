@@ -27,14 +27,6 @@ namespace First_Winform
             Console.WriteLine(reply);
         }
 
-        private void button2_Click(object sender, EventArgs e)
-        {
-            WebClient client = new WebClient();
-            string reply = client.DownloadString("http://192.168.0.42:8080/red_off");
-
-            Console.WriteLine(reply);
-        }
-
         private void button3_Click(object sender, EventArgs e)
         {
             WebClient client = new WebClient();
@@ -86,6 +78,19 @@ namespace First_Winform
             string reply = client.DownloadString("http://192.168.0.42:8080/all_off");
 
             Console.WriteLine(reply);
+        }
+
+        private void button2_Click_1(object sender, EventArgs e)
+        {
+            WebClient client = new WebClient();
+            string reply = client.DownloadString("http://192.168.0.42:8080/red_off");
+
+            Console.WriteLine(reply);
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

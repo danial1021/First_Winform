@@ -7,6 +7,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.Net;
+using System.IO;
 
 namespace First_Winform
 {
@@ -19,22 +21,18 @@ namespace First_Winform
 
         private void button1_Click(object sender, EventArgs e)
         {
+            WebClient client = new WebClient();
+            string reply = client.DownloadString("http://192.168.0.42:8080/on");
 
+            Console.WriteLine(reply);
         }
 
         private void button2_Click(object sender, EventArgs e)
         {
+            WebClient client = new WebClient();
+            string reply = client.DownloadString("http://192.168.0.42:8080/off");
 
-        }
-
-        private void Form1_Load(object sender, EventArgs e)
-        {
-
-        }
-
-        private void textBox1_TextChanged(object sender, EventArgs e)
-        {
-
+            Console.WriteLine(reply);
         }
     }
 }

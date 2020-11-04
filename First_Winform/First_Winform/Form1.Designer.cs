@@ -134,7 +134,7 @@
             this.label1.BackColor = System.Drawing.SystemColors.ButtonFace;
             this.label1.Font = new System.Drawing.Font("맑은 고딕", 30.875F);
             this.label1.ForeColor = System.Drawing.Color.Gold;
-            this.label1.Location = new System.Drawing.Point(665, 351);
+            this.label1.Location = new System.Drawing.Point(673, 349);
             this.label1.Name = "label1";
             this.label1.Padding = new System.Windows.Forms.Padding(30);
             this.label1.Size = new System.Drawing.Size(356, 170);
